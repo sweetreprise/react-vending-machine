@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1575224526797-5730d09d781d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80');
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-color: #00060D;
+}
+
+.choices {
+    border: 1px solid white;
+    width: 6rem;
+    position: absolute;
+    top: 40%;
+    left: 25rem;
+    background-color: rgba(255,255,255,0.2)
+}
+
+.choices p {
+    color: navajowhite
+}
+
+h1 {
+    color: #00cc66;
+}
+
+a {
+    color: aqua;
+}
